@@ -1,0 +1,10 @@
+To open virtual env:
+    source .venv/Scripts/activate
+
+Docs of AWS functions:
+    https://docs.aws.amazon.com/cdk/api/latest/python/index.html
+
+To deploy:
+    cdk ls
+    cdk synth
+    cdk deploy
