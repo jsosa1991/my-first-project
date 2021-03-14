@@ -8,3 +8,6 @@ To deploy:
     cdk ls
     cdk synth
     cdk deploy
+
+To see difference between versions:
+    cdk diff ---> after cdk ls and before cdk deploy
